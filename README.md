@@ -340,31 +340,3 @@ En la version 3.1 de la api no aparece callingcode hemos cambiado la url para ve
 <br>
 
 Sobre la API REST Countries realiza una consulta GET válida para cada uno de los end-points anteriores. Utiliza para ello la aplicación cliente POSTMAN (https://www.postman.com/).
-```
-[JSON Lenguaje](https://github.com/JagaScripts/java-full-stack-dev-M5/blob/master/lang.json "JSON Lenguaje")
-
-  </details>
-<br>
-8. https://restcountries.com/v3.1/capital/{capital}
-
-![image]()
-
-En la version 3.1 de la api no aparece callingcode hemos cambiado la url para ver el calling code v2
-9. https://restcountries.com/v2/callingcode/{callingcode}
-
-![image]()
-
-10. https://restcountries.com/v3.1/region/{region}
-
-![image]()
-
-En la version 3.1 de la api no aparece callingcode hemos cambiado la url para ver el calling code v2
-11. https://restcountries.com/v2/regionalbloc/{regionalbloc}
-
-![image]()
-
-12. https://restcountries.com/v3.1/{service}?fields={field};{field};{field}
-
-![image]()
-
-Sobre la API REST Countries realiza una consulta GET válida para cada uno de los end-points anteriores. Utiliza para ello la aplicación cliente POSTMAN (https://www.postman.com/).
