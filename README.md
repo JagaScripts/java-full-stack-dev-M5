@@ -2,9 +2,9 @@
 Este repositorio corresponde a ejercicios realizados en la formación de Java Full Stack Developer, concretamente a la M5 - Introducción a las API REST
 
 <details>
-  <summary>Título del spoiler.</summary>
+  <summary>Descarga postman.</summary>
 <br>
-<p align="justify">Texto dentro del spoiler.</p>
+<p align="justify">Captura de la descarga.</p>
   
   </details>
  <br>
