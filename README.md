@@ -1,6 +1,14 @@
 # java-full-stack-dev-M5
 Este repositorio corresponde a ejercicios realizados en la formación de Java Full Stack Developer, concretamente a la M5 - Introducción a las API REST
 
+<details>
+  <summary>Título del spoiler.</summary>
+<br>
+<p align="justify">Texto dentro del spoiler.</p>
+  
+  </details>
+ <br>
+
 Capturas de pantalla de cada uno de los pasos.
 
 ![image]()
