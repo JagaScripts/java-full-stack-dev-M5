@@ -120,7 +120,10 @@ La API gratuita REST Countries (https://restcountries.com/) tiene configurados l
 
   </details>
 <br>
+
 {et} en la documentación no aparece lo que si se puede buscar es {lang}
+
+
 7. Currency.
 
 <details>
