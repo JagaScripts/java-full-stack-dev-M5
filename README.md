@@ -24,11 +24,9 @@ La API gratuita REST Countries (https://restcountries.com/) tiene configurados l
 
 ![image]()
 
-
 5. https://restcountries.com/v3.1/alpha?codes={code};{code};{code}
 
 ![image]()
-
 
 6. https://restcountries.com/v3.1/currency/{currency}
 
@@ -48,12 +46,12 @@ En la version 3.1 de la api no aparece callingcode hemos cambiado la url para ve
 
 ![image]()
 
-
 10. https://restcountries.com/v3.1/region/{region}
 
 ![image]()
 
-11. https://restcountries.com/v3.1/regionalbloc/{regionalbloc}
+En la version 3.1 de la api no aparece callingcode hemos cambiado la url para ver el calling code v2
+11. https://restcountries.com/v2/regionalbloc/{regionalbloc}
 
 ![image]()
 
@@ -62,9 +60,3 @@ En la version 3.1 de la api no aparece callingcode hemos cambiado la url para ve
 ![image]()
 
 Sobre la API REST Countries realiza una consulta GET válida para cada uno de los end-points anteriores. Utiliza para ello la aplicación cliente POSTMAN (https://www.postman.com/).
-
-
-
-Recuerda adjuntar en un .txt las consultas y el JSON obtenido. Así como las capturas de pantalla de cada uno de los pasos.
-
-Recuerda que tienes fecha límite de entrega. 
