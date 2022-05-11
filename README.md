@@ -6,11 +6,11 @@ Capturas de pantalla de cada uno de los pasos.
 <details>
   <summary>Descarga postman.</summary>
 <br>
-<p align="justify">Captura de la descarga.</p>
-   
-  </details>
+  <img src="https://github.com/JagaScripts/java-full-stack-dev-M5/blob/master/posmanDonwload.jpg">
  <br>
- ![image](https://github.com/JagaScripts/java-full-stack-dev-M5/blob/master/posmanDonwload.jpg)
+<p align="justify">Captura de la descarga.</p>
+  </details>
+<br>
 
 <details>
   <summary>Descarga postman.</summary>
