@@ -34,12 +34,33 @@ La API gratuita REST Countries (https://restcountries.com/) tiene configurados l
 
 ![image]()
 
-13. https://restcountries.com/v3.1/lang/{et}
-14. https://restcountries.com/v3.1/capital/{capital}
-15. https://restcountries.com/v3.1/callingcode/{callingcode}
-16. https://restcountries.com/v3.1/region/{region}
-17. https://restcountries.com/v3.1/regionalbloc/{regionalbloc}
-18. https://restcountries.com/v3.1/{service}?fields={field};{field};{field}
+{et} en la documentación no aparece lo que si se puede buscar es {lang}
+7. https://restcountries.com/v3.1/lang/{lang}
+
+![image]()
+
+8. https://restcountries.com/v3.1/capital/{capital}
+
+![image]()
+
+En la version 3.1 de la api no aparece callingcode hemos cambiado la url para ver el calling code v2
+9. https://restcountries.com/v2/callingcode/{callingcode}
+
+![image]()
+
+
+10. https://restcountries.com/v3.1/region/{region}
+
+![image]()
+
+11. https://restcountries.com/v3.1/regionalbloc/{regionalbloc}
+
+![image]()
+
+12. https://restcountries.com/v3.1/{service}?fields={field};{field};{field}
+
+![image]()
+
 Sobre la API REST Countries realiza una consulta GET válida para cada uno de los end-points anteriores. Utiliza para ello la aplicación cliente POSTMAN (https://www.postman.com/).
 
 
