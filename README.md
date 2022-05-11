@@ -1,18 +1,23 @@
 # java-full-stack-dev-M5
 Este repositorio corresponde a ejercicios realizados en la formación de Java Full Stack Developer, concretamente a la M5 - Introducción a las API REST
 
+Capturas de pantalla de cada uno de los pasos.
+
 <details>
   <summary>Descarga postman.</summary>
 <br>
 <p align="justify">Captura de la descarga.</p>
-  
+    ![image](https://github.com/JagaScripts/java-full-stack-dev-M5/blob/master/posmanDonwload.jpg)
   </details>
  <br>
 
-Capturas de pantalla de cada uno de los pasos.
-
-![image]()
-![image]()
+<details>
+  <summary>Descarga postman.</summary>
+<br>
+<p align="justify">Captura de la descarga.</p>
+    ![image](https://github.com/JagaScripts/java-full-stack-dev-M5/blob/master/postmantInstalado.jpg)
+  </details>
+ <br>
 
 La API gratuita REST Countries (https://restcountries.com/) tiene configurados las URI para el GET de cada uno de los siguientes endpoints:
 
