@@ -23,7 +23,7 @@ Capturas de pantalla de cada uno de los pasos.
 
 La API gratuita REST Countries (https://restcountries.com/) tiene configurados las URI para el GET de cada uno de los siguientes endpoints:
 
-1. https://restcountries.com/v3.1/all
+1. All countries.
 
 <details>
   <summary>Captura https://restcountries.com/v3.1/name/Uruguay </summary>
